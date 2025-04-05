@@ -18,7 +18,7 @@ I’m a developer passionate about building fast, accessible, and user-friendly 
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charmin&show_icons=true&hide_border=true&theme=radical)
 
 ---
 
