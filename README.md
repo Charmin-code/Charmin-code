@@ -44,10 +44,14 @@ I am a dynamic **Full-Stack Software Engineer** with 4 years of professional exp
 
 ### 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charmin-code&show_icons=true&hide_border=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charmin-code&layout=compact&hide_border=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Charmin-code&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="Charmin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charmin-code&layout=compact&hide_border=true&theme=radical&langs_count=7" alt="Top Languages" width="48%" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charmin-code&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
 
 ### 📫 Let's Connect
 
